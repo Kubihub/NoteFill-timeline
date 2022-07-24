@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-            "url": "media/img1.JPG", 
+            "url": "media/img1.jpg", 
             "caption": "This timeline discribes the software development plan for implementation a noteFill site",
             "credit": "Timeline <a href='media/img1.JPG'>image</a> "
         },
@@ -13,7 +13,7 @@
     "events": [ 
         {
             "media": {
-                "url": "media/img1.JPG", 
+                "url": "media/img1.jpg", 
                 "caption": "This timeline discribes the software development plan for implementation a noteFill site",
                 "credit": "Timeline <a href='media/img1.JPG'>image</a> "
             },
@@ -35,7 +35,7 @@
 
         },  {
             "media": {
-                "url": "media/img1.JPG", 
+                "url": "media/img1.jpg", 
                 "caption": "This timeline discribes the software development plan for implementation a noteFill site",
                 "credit": "Timeline <a href='media/img1.JPG'>image</a> "
             },
@@ -58,7 +58,7 @@
         },
         {
             "media": {
-                "url": "media/img1.JPG", 
+                "url": "media/img1.jpg", 
                 "caption": "This timeline discribes the software development plan for implementation a noteFill site",
                 "credit": "Timeline <a href='media/img1.JPG'>image</a> "
             },
