@@ -1,0 +1,83 @@
+{
+    "title": {
+        "media": {
+            "url": "media/img1.JPG", 
+            "caption": "This timeline discribes the software development plan for implementation a noteFill site",
+            "credit": "Timeline <a href='media/img1.JPG'>image</a> "
+        },
+        "text": {
+            "headline": "Project phases and Timeline ",
+            "text": "<p>This is the first phases of the timeline Project</p>"
+        }
+    },
+    "events": [ 
+        {
+            "media": {
+                "url": "media/img1.JPG", 
+                "caption": "This timeline discribes the software development plan for implementation a noteFill site",
+                "credit": "Timeline <a href='media/img1.JPG'>image</a> "
+            },
+            "start_date": {
+                "month": "7",
+                "day": "24",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "8",
+                "day": "23",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Phase 1- conceptualization",
+                "text":"<p>This is the first phases of the timeline Project</p>"
+
+            }
+
+        },  {
+            "media": {
+                "url": "media/img1.JPG", 
+                "caption": "This timeline discribes the software development plan for implementation a noteFill site",
+                "credit": "Timeline <a href='media/img1.JPG'>image</a> "
+            },
+            "start_date": {
+                "month": "8",
+                "day": "1",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "8",
+                "day": "14",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Phase 2- Requirment analysis",
+                "text":"<p>This is the first phases of the timeline Project</p>"
+
+            }
+
+        },
+        {
+            "media": {
+                "url": "media/img1.JPG", 
+                "caption": "This timeline discribes the software development plan for implementation a noteFill site",
+                "credit": "Timeline <a href='media/img1.JPG'>image</a> "
+            },
+            "start_date": {
+                "month": "8",
+                "day": "5",
+                "year": "2022"
+            },
+            "end_date": {
+                "month": "8",
+                "day": "16",
+                "year": "2022"
+            },
+            "text": {
+                "headline": "Phase 3- Prototyping",
+                "text":"<p>This is the first phases of the timeline Project</p>"
+
+            }
+
+        }
+    ]
+}
